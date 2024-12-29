@@ -59,7 +59,8 @@
 .icon-file-word { width: 24px; height: 31px; }
 .icon-form { width: 17px; height: 17px; }
 .icon-forward { width: 16px; height: 17px; }
-.icon-full-logo { width: 175px; height: 50px; }
+.icon-full-logo.bak { width: 175px; height: 50px; }
+.icon-full-logo { width: 174.15px; height: 52.38px; }
 .icon-github-button { width: 29px; height: 24px; }
 .icon-github-logo { width: 24px; height: 24px; }
 .icon-gitlab-button { width: 29px; height: 24px; }
@@ -87,8 +88,8 @@
 .icon-loading { width: 16px; height: 16px; }
 .icon-lock-open { width: 16px; height: 17px; }
 .icon-lock { width: 16px; height: 17px; }
-.icon-logo { width: 42px; height: 36px; }
-.icon-logotype { width: 91px; height: 15px; }
+.icon-logo { width: 23.26px; height: 36.07px; }
+.icon-logotype { width: 82.32px; height: 18px; }
 .icon-long-arrow-down { width: 11px; height: 11px; }
 .icon-long-arrow-right { width: 11px; height: 11px; }
 .icon-low-priority { width: 16px; height: 16px; }
